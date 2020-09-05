@@ -17,3 +17,5 @@ export default function sketch(p) {
       p.fill(newProps.color);
   };
 }
+
+// useless comment
